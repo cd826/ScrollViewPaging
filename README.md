@@ -1,9 +1,7 @@
 # ScrollViewPaging(Swift)
 本控件增强UIScrollView的分页功能，提供自定义分页宽度、自动循环播放等功能。  
 
-<div style="text-align: center">
-<img src="https://github.com/cd826/ScrollViewPaging/blob/master/ScrollViewPagingDemo.gif?raw=true" style="width:320px;border:1px solid gray"/>
-</div>
+![image](https://github.com/cd826/ScrollViewPaging/blob/master/demo.gif?raw=true)
 
 ## 使用方法
 ```swift
