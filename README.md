@@ -1,0 +1,2 @@
+# ScrollViewPaging
+增强UIScrollView的分页功能，可以自定义分页宽度、是否自动循环播放等
